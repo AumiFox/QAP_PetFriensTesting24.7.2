@@ -1,0 +1,4 @@
+Зависимости:
+requests
+requests-toolbelt
+pytest
